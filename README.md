@@ -1,0 +1,2 @@
+# lab-rust
+rust project
